@@ -103,7 +103,6 @@
       "artifactName": "${productName}-macOS-${arch}-${version}.${ext}"
     },
     "dmg": {
-      "oneClick": false,
       "artifactName": "${productName}-macOS-${arch}-${version}.${ext}"
     }
   }
